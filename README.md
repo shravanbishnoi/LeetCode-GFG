@@ -1,2 +1,8 @@
-# ProjectsGFG
-Dive into the world of Python with our GitHub repository! Uncover a variety of coding projects, including those related to Data Structures and Algorithms (DSA). Contribute, learn, and elevate your programming skills. Join our community, where code meets creativity! 🐍💻 #PythonProjects #DSA #CodingChallenge
+# Projects Repository
+Welcome to our Coding Projects repository! 🚀
+
+## Overview
+Explore a diverse collection of Python projects ranging from web development to Data Structures and Algorithms (DSA). This repository is a hub for open-source solutions and a playground for tech enthusiasts to collaborate and innovate. The problem statements are from Geeks for Geeks website.
+
+## Projects:
+  - Number Guess Game
