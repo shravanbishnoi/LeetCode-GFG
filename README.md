@@ -7,4 +7,4 @@ Explore a diverse collection of Python projects ranging from web development to 
 ## Projects:
   - Number Guess Game
   - Leaders in an array
-  - Find missing number in an array
+  - Find missing number in an array.
