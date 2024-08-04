@@ -9,3 +9,4 @@ Explore a diverse collection of Python projects ranging from web development to 
   - Leaders in an array
   - Find missing number in an array
   - Creat multiple tables in Postgres
+  - Delete multiple tables in Postgres 
