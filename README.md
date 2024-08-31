@@ -10,4 +10,5 @@ Explore a diverse collection of Python projects ranging from web development to 
   - Find missing number in an array
   - Creat multiple tables in Postgres
   - Delete multiple tables in Postgres
-  - Reverse words in a list of string 
+  - Reverse words in a list of string
+  - Increasing Triplet Subsequence
