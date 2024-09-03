@@ -12,3 +12,4 @@ Explore a diverse collection of Python projects ranging from web development to 
   - Delete multiple tables in Postgres
   - Reverse words in a list of string
   - Increasing Triplet Subsequence
+  - String Compression
