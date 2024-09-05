@@ -13,3 +13,4 @@ Explore a diverse collection of Python projects ranging from web development to 
   - Reverse words in a list of string
   - Increasing Triplet Subsequence
   - String Compression
+  - Move zeroes to end in an array
