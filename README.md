@@ -14,3 +14,4 @@ Explore a diverse collection of Python projects ranging from web development to 
   - Increasing Triplet Subsequence
   - String Compression
   - Move zeroes to end in an array
+  - Is Subsequence
