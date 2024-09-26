@@ -18,3 +18,5 @@ Explore a diverse collection of Python projects ranging from web development to 
   - Max area problem (most water)
   - Find Difference of Two Arrays
   - Search in a Binary Tree
+  - Contains duplicate characters in a string
+  - Largest Altitude
