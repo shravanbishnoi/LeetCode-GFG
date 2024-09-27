@@ -1,5 +1,5 @@
-# Projects Repository
-Welcome to our Coding Projects repository! 🚀
+# Coding Repository
+Welcome to my Coding repository! 🚀
 
 ## Overview
 Explore a diverse collection of Python projects ranging from web development to Data Structures and Algorithms (DSA). This repository is a hub for open-source solutions and a playground for tech enthusiasts to collaborate and innovate. The problem statements are from Geeks for Geeks website.
@@ -20,3 +20,4 @@ Explore a diverse collection of Python projects ranging from web development to 
   - Search in a Binary Tree
   - Contains duplicate characters in a string
   - Largest Altitude
+  - Right most nodes
