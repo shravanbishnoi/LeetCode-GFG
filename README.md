@@ -21,3 +21,4 @@ Explore a diverse collection of Python projects ranging from web development to 
   - Contains duplicate characters in a string
   - Largest Altitude
   - Right most nodes
+  - Kth largest element
