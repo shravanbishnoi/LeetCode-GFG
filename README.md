@@ -23,3 +23,4 @@ Explore a diverse collection of Python projects ranging from web development to 
   - Right most nodes
   - Kth largest element
   - Max depth Binary tree
+  - Max average
