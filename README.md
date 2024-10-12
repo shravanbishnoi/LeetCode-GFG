@@ -25,3 +25,4 @@ Explore a diverse collection of Python projects ranging from web development to 
   - Max depth Binary tree
   - Max average
   - Two number target
+  - Remove stars
