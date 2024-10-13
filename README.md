@@ -26,3 +26,4 @@ Explore a diverse collection of Python projects ranging from web development to 
   - Max average
   - Two number target
   - Remove stars
+  - Common Elements
