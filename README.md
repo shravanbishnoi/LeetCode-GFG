@@ -27,3 +27,4 @@ Explore a diverse collection of Python projects ranging from web development to 
   - Two number target
   - Remove stars
   - Common Elements
+  - Edit distance
