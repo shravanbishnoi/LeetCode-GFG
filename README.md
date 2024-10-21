@@ -30,3 +30,4 @@ Explore a diverse collection of Python projects ranging from web development to 
   - Edit distance
   - Remove duplicates from SLL
   - Is permutation of other
+  - Can visit all rooms
