@@ -31,3 +31,4 @@ Explore a diverse collection of Python projects ranging from web development to 
   - Remove duplicates from SLL
   - Is permutation of other
   - Can visit all rooms
+  - Delete middle in Linked List
