@@ -33,3 +33,4 @@ Explore a diverse collection of Python projects ranging from web development to 
   - Can visit all rooms
   - Delete middle in Linked List
   - Recent calls
+  - Rotate string
