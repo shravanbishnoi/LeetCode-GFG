@@ -35,3 +35,4 @@ Explore a diverse collection of Python projects ranging from web development to 
   - Recent calls
   - Rotate string
   - k th to last SLL
+  - Is subsequence
