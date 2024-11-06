@@ -37,3 +37,4 @@ Explore a diverse collection of Python projects ranging from web development to 
   - k th to last SLL
   - Is subsequence
   - Partition a Singly Linked List
+  - Check balanced
