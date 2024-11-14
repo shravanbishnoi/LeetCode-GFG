@@ -38,3 +38,4 @@ Explore a diverse collection of Python projects ranging from web development to 
   - Is subsequence
   - Partition a Singly Linked List
   - Check balanced
+  - Index of first occurrence
