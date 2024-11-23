@@ -39,3 +39,4 @@ Explore a diverse collection of Python projects ranging from web development to 
   - Partition a Singly Linked List
   - Check balanced
   - Index of first occurrence
+  - Phone number combinations
