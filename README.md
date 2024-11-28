@@ -1,5 +1,7 @@
+# 💡 Mastering Problem-Solving Skills
+This repository contains solutions to various coding practice problems, focusing on concepts of Python, Java, and Data Structures and Algorithms. It serves as a collection of my problem-solving journey and continuous learning in programming.
 
-
+## Problem list
 1. BST  
 2. BinaryTree  
 3. ContainsDuplicateChars  
