@@ -82,3 +82,4 @@ This repository contains solutions to various coding practice problems, focusing
 78. validateBST_4.5  
 79. wordPattern  
 80. zeroMatrix_1.8
+81. Validate BST
